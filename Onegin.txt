@@ -40,7 +40,7 @@ K. Vyasemsky.
 
 I
 
-‘My uncle keeps to honest systems: By falling ill yet not in jest,
+'My uncle keeps to honest systems: By falling ill yet not in jest,
 
 He made me love him with insistence And couldn't find some better test.
 
@@ -172,7 +172,7 @@ Moldavia, that's far away From Italy, was end of way.
 
 IX
 
-………………….. 	………………….. 	…………………..
+......... 	......... 	.........
 
 X
 
@@ -230,7 +230,7 @@ Who's always proud of himself, Of dinner and of wife herself.
 
 XIII, XIV
 
-………………….. 	………………….. 	…………………..
+......... 	......... 	.........
 
 XV
 
@@ -652,7 +652,7 @@ The boston, gossips were in vain, Or dear looks or sighs - all those
 
 Did never touch hire as before, He caught the sight of nothing more.
 
-XXXIX, XL, XLI ………………….. 	………………….. 	…………………..
+XXXIX, XL, XLI ......... 	......... 	.........
 
 XLII
 
@@ -720,7 +720,7 @@ Devotion to dreams unwitting, Unimitated strange unfitting,
 
 His sharp, but somewhat cooling wit.
 
-I was embittered, he… unfit.
+I was embittered, he. unfit.
 
 We knew the game of passion's oath; By life were anguished as a rule;
 
@@ -794,7 +794,7 @@ And being free, again	revel In girl from Venece, pretty, young,
 
 Sometimes she's talkative or dumb, In secret gondola I'll travel
 
-With her, my lips will find anew Petrarka's language ‘I love you' .
+With her, my lips will find anew Petrarka's language 'I love you' .
 
 L
 
@@ -930,9 +930,9 @@ And girls, at banks Salgirian captured.
 
 But now, friends, from all my sides -
 
-‘Of whom your own lyre sighs?' By you I'm often briskly questioned, -
+'Of whom your own lyre sighs?' By you I'm often briskly questioned, -
 
-‘To whom in throng of jealous girls You dedicated tune of hers?'
+'To whom in throng of jealous girls You dedicated tune of hers?'
 
 LVIII
 
@@ -940,7 +940,7 @@ LVIII
 
 For thoughtful singing with attention?'
 
-‘And whom your lovely verse adored?'
+'And whom your lovely verse adored?'
 
 Ah, no one, my friends, believe me!
 
@@ -1600,7 +1600,7 @@ At neighbour's monument submissive He dedicated him a sigh;
 
 His heart was sad, his voice was mournful.
 
-‘Ah, poor Yorick, said he, joyful
+'Ah, poor Yorick, said he, joyful
 
 He kept me often in his hands, While I could show many pranks
 
@@ -1656,7 +1656,7 @@ Perhaps, in Lethe won't perish My verse, by wit and heart well made;
 
 Perhaps, in front of portrait famous, To people future ignoramous
 
-Will show my renowned face And say: ‘It's poet of grace!'
+Will show my renowned face And say: 'It's poet of grace!'
 
 Accept you all my thankful feelings Admirer of peaceful muse,
 
@@ -1672,45 +1672,45 @@ Malfilatre.
 
 I
 
-‘What way?
+'What way?
 
 You poets, are queer!' -Good bye, Onegin, time has gone.
 
-‘I don't hamper you, but dear, For evenings where have you gone?
+'I don't hamper you, but dear, For evenings where have you gone?
 
--To Larin's -'Oh, looks it strangely: To kill your pretty evenings daily…
+-To Larin's -'Oh, looks it strangely: To kill your pretty evenings daily.
 
-Forgive me, isn't it too hard?' -For me it's not - ‘But dear bard,
+Forgive me, isn't it too hard?' -For me it's not - 'But dear bard,
 
 I don't grasp despite endeavours; You listen to (if I am right?)
 
 This Russian family seems light, To all the guests it's always zealous,
 
-The jams, eternal talk of all: Of rain, of flax, of horses' stall…'
+The jams, eternal talk of all: Of rain, of flax, of horses' stall.'
 
 II
 
--In this I see yet no troubles…
+-In this I see yet no troubles.
 
-‘But trouble is: they are such bores'.
+'But trouble is: they are such bores'.
 
 -I hate your world of fashion marbles, Much more I like the world indoors,
 
-And there… -
+And there. -
 
-‘For the sake of goodness, You keep the eclog, now useless.
+'For the sake of goodness, You keep the eclog, now useless.
 
-I'm sorry that you go… well, My dear Lensky, will you tell,
+I'm sorry that you go. well, My dear Lensky, will you tell,
 
 If that Fillidae you can show, The subject for the pen to mourn,
 
-For tears, rhymes and so on?… Present me her'.
+For tears, rhymes and so on?. Present me her'.
 
 - D'you joke -
 
-‘No'.
+'No'.
 
--I'm glad. - ‘but when?' -Well, now just, They will receive with pleasure us.
+-I'm glad. - 'but when?' -Well, now just, They will receive with pleasure us.
 
 III
 
@@ -1732,13 +1732,13 @@ Let's listen, yet without labour, To their talking, short indeed.
 
 But why, Onegin, you are yawning? -
 
-‘My habit,..
+'My habit,..
 
-I…' -But you are boring
+I.' -But you are boring
 
 Much more... -
 
-‘Well, no, just the same...
+'Well, no, just the same...
 
 The field is dark in pretty gale...
 
@@ -1756,9 +1756,9 @@ You tell, of them which is Tatyana?' -That girl, which's always so sad;
 
 She's taciturn like that Swetlana,.. When came, at window she sat.-
 
-‘But do you love, indeed, the other?' -And what? -
+'But do you love, indeed, the other?' -And what? -
 
-‘But I'd prefer another,
+'But I'd prefer another,
 
 If I were poet like you.
 
@@ -1950,11 +1950,11 @@ In dark my Tanya's quite upset With nurse in whisper has a chat:
 
 XVII
 
-‘...can't sleep, it's stuffy, you unclose The window and sit beside...'
+'...can't sleep, it's stuffy, you unclose The window and sit beside...'
 
 -But what is it -
 
-‘You tell of those Your old times... I've boring tide..'
+'You tell of those Your old times... I've boring tide..'
 
 -But what about?
 
@@ -1978,7 +1978,7 @@ XVIII
 
 Or otherwise I'd be with rages By all my kin pursued for love.-
 
-‘But how did you marry, nanny?' -It was by wish of God.
+'But how did you marry, nanny?' -It was by wish of God.
 
 My Vanny Was younger, than myself I mean, And I was, dear, yet thirteen.
 
@@ -1996,7 +1996,7 @@ And I'm in family unknown...
 
 But are you listening yet to me?
 
-‘Well... I, my nanny… don't know... For love I'm longing, dear me!
+'Well... I, my nanny. don't know... For love I'm longing, dear me!
 
 To cry, to weep I'm now ready...' -I see, you are unwell already
 
@@ -2012,11 +2012,11 @@ The nurse was using own way To help the girl with cross and pray.
 
 XX
 
-‘I fell in love', again she whispers In nurse's ear in dismay.
+'I fell in love', again she whispers In nurse's ear in dismay.
 
 -My hearty friend, you have some fevers.-
 
-‘I fell in love... you'd get away
+'I fell in love... you'd get away
 
 Meanwhile the moon was brightly shining, By languid light it was enlightning
 
@@ -2034,7 +2034,7 @@ While at the moon Tatyana's looking, By own heart away she's gone...
 
 Of mind some vague a thought is moving...
 
-‘You, nanny, let me stay forlone.
+'You, nanny, let me stay forlone.
 
 You give a pen and paper, dear, I'll stay in bed; make table near;
 
@@ -2106,7 +2106,7 @@ Coquette is judging always coolly; Tatyana loves without jest,
 
 For love she's dedicated truly Like loyal child for mother's nest,
 
-She doesn't say: ‘Let us postpone For multiplying price of own
+She doesn't say: 'Let us postpone For multiplying price of own
 
 Attractiveness; to catch in nets By first expressing some regret
 
@@ -2166,7 +2166,7 @@ Of younger beauties generation Will follow the journal's call:
 
 To grammar will subdue us all, To verse will pay too much attention:
 
-But I… it doesn't bother me: To old times I'll loyal be.
+But I. it doesn't bother me: To old times I'll loyal be.
 
 XXIX
 
@@ -2330,15 +2330,15 @@ Of nightly grief I see none track, Your face is blushing poppy-red.-
 
 XXXIV
 
-‘Ah, will you do a favour, nanny?' -All right, my dear, you command.-
+'Ah, will you do a favour, nanny?' -All right, my dear, you command.-
 
-‘D'you think.' indeed... suspicions any… But do you see...
+'D'you think.' indeed... suspicions any. But do you see...
 
 Ah, don't mind' -My friend, by God to hail I dare —
 
-‘You send your grandchild stilly there To give this note to... to my...
+'You send your grandchild stilly there To give this note to... to my...
 
-The neighbour... order to your guy: Not say a word he must be ready, By no means to call my name!'… -To whom, my dear?
+The neighbour... order to your guy: Not say a word he must be ready, By no means to call my name!'. -To whom, my dear?
 
 Tell again, You see, I'm now muddle-headed.
 
@@ -2346,13 +2346,13 @@ Too many neighbours we have had, I cannot count al! them yet.-
 
 XXXV
 
-‘What slow-witted you are, nyanya!' -I'm old, dear friend of heart, My wit is now fading, Tanya: But long ago I was smart: By word of barin's will I'd rather…-
+'What slow-witted you are, nyanya!' -I'm old, dear friend of heart, My wit is now fading, Tanya: But long ago I was smart: By word of barin's will I'd rather.-
 
-‘Ah, nanny, that is quite (mother, I'm never bothered by your wit; I speak of letter, you should fit For that Onegin' -Well done dealing.
+'Ah, nanny, that is quite (mother, I'm never bothered by your wit; I speak of letter, you should fit For that Onegin' -Well done dealing.
 
 Do not be angry, dear. you Well know: I am dull for you...
 
-But you are pale... What are you feeling? ‘It's nothing, nanny, not at all.
+But you are pale... What are you feeling? 'It's nothing, nanny, not at all.
 
 But send your boy, and first of all' .
 
@@ -2366,7 +2366,7 @@ She's up at once, Like shade she's pale, but no answer...
 
 Well dressed, she's waiting for her chance, But came to Olga her adorer.,.
 
-‘And where is your friend, the former?- Vladimir such request has got, It seems, he us at all forgot.'.
+'And where is your friend, the former?- Vladimir such request has got, It seems, he us at all forgot.'.
 
 Tatyana's flushing, all she's trembling - To be to-day he promised me,- Vladimir answers, - may be, he For post now yet is waiting.- Tatyana stands, she drops her eyes As if reproached by the vice.
 
@@ -2384,13 +2384,13 @@ What chatters!.. Blood in her runs cold...
 
 They rush into the yard at once!
 
-‘Ah, Eugene!', - She is quickly running, Like shade she's prompt, to exit's jumping, From porch for garden through the yard She flies, to look yet back it's hard; In short a minute she's been racing Across the bridges and the glade, Along the forest, brook, the lake, She is the lilac bushes breaking, Through flowers she runs... in wrench Without breath she reached a bench,
+'Ah, Eugene!', - She is quickly running, Like shade she's prompt, to exit's jumping, From porch for garden through the yard She flies, to look yet back it's hard; In short a minute she's been racing Across the bridges and the glade, Along the forest, brook, the lake, She is the lilac bushes breaking, Through flowers she runs... in wrench Without breath she reached a bench,
 
 XXXIX
 
-Has fallen…
+Has fallen.
 
-‘Here's He! that's Eugene!
+'Here's He! that's Eugene!
 
 My God! what thoughts could come to him!'
 
@@ -2546,7 +2546,7 @@ Some minutes they were silent both, Onegin then to her came up
 
 And. told her:
 
-‘To me you wrote, Do not deny.
+'To me you wrote, Do not deny.
 
 I've read it up:
 
@@ -2562,7 +2562,7 @@ All my confessions must you take: For judgement yours I give my fate.
 
 XIII
 
-‘If I would wish to have restricted My life by family, you see,
+'If I would wish to have restricted My life by family, you see,
 
 If by my lot I were convicted A husband, father just to be,
 
@@ -2578,7 +2578,7 @@ Of all the charming for the bail And would be happy... till I fail!
 
 XI
 
-‘I'm not quite made to be much happy. My soul's alien for bliss;
+'I'm not quite made to be much happy. My soul's alien for bliss;
 
 Perfections yours make speech my gappy, Of them I'm not yet worthy, miss.
 
@@ -2596,7 +2596,7 @@ For us fine Hymen now makes And maybe yet for many days.
 
 XV
 
-‘In all the world its most badly To see in family the wife
+'In all the world its most badly To see in family the wife
 
 Who's waiting for her husband sadly Alone daily all her life.
 
@@ -2608,13 +2608,13 @@ That's what I am.
 
 Indeed, you won't With all your pure flaming heart
 
-Be glad with such a man… You smart With rare wit your letter wrote!
+Be glad with such a man. You smart With rare wit your letter wrote!
 
 Indeed, d'you have this kind of mate Destined to your severe. fate?
 
 XVI
 
-‘My dreams and years won't rather Return to make me new a bit,
+'My dreams and years won't rather Return to make me new a bit,
 
 I love you, but with love of brother And may be tenderer indeed.
 
@@ -2626,7 +2626,7 @@ In early spring of every year.
 
 You see, by skies its predestined:
 
-You'll fall in love once more and find… You learn to rule yourself: I fear
+You'll fall in love once more and find. You learn to rule yourself: I fear
 
 Not any man can grasp such things; Ignorance many troubles brings'
 
@@ -2910,7 +2910,7 @@ Critic strictly Demands from us: be getting rid
 
 Of elegy's bad garland quickly; To all the rhymers, friends indeed,
 
-He shouts: ‘Stop your own crying And croaking the same, and whining,
+He shouts: 'Stop your own crying And croaking the same, and whining,
 
 And always pity of the past; Enough, of other sing you fast!'
 
@@ -2936,9 +2936,9 @@ Enough, my friend, its all the same!
 
 Is cunning liric, who can render
 
-The ‘else's trends', for you the best Among dull rhymers and the rest? -
+The 'else's trends', for you the best Among dull rhymers and the rest? -
 
-‘But all the elegies are mere A trifle, aimless idle talk,
+'But all the elegies are mere A trifle, aimless idle talk,
 
 Meanwhile they most be not a mock, But honourable..!' - l could here
 
@@ -3050,7 +3050,7 @@ XLII
 
 But nowadays the frosts are crackling (A rhyme for cra.ckling, one foresees;
 
-Its here: take it and be ‘tackling' !) All look like silver snowy fields...
+Its here: take it and be 'tackling' !) All look like silver snowy fields...
 
 More pretty than a parquette fashioned, The river, clad in ice, is flashy,
 
@@ -3102,7 +3102,7 @@ On roan horses, three abrest; Arid let's have dinner before rest!
 
 XLV
 
-Of ‘Clicquot widow' or ‘Moet` Some blessed and fine the dry white wine
+Of 'Clicquot widow' or 'Moet` Some blessed and fine the dry white wine
 
 In icy bottle for the poet Sometimes is brought at proper time.
 
@@ -3120,19 +3120,19 @@ XLVI
 
 But it betrays with froth imprudent My stomack. I have never sought
 
-It now; but ‘Bordeaux' prudent To-day to others nave prefered.
+It now; but 'Bordeaux' prudent To-day to others nave prefered.
 
 Some wines to me are not ajusted, Remind a lady-lover rusted,
 
 Which's shiny, windy and alive, But selfish, idle, thirsts for thrive.
 
-And you, ‘Bordeaux' you came friendly, Like friend in trouble and in grief,
+And you, 'Bordeaux' you came friendly, Like friend in trouble and in grief,
 
 You are like comrade, 1 believe, To help are ready always gently,
 
 Can share stillness of pastimes; Long live
 
-‘Bordeaux' all the times!
+'Bordeaux' all the times!
 
 XLVII
 
@@ -3158,7 +3158,7 @@ But why? I don't grasp it yet). And now friends enjoy a chat..
 
 XLUIII
 
-‘But how are Tatyana, neighbours, And Olga, frisky pretty girl?'
+'But how are Tatyana, neighbours, And Olga, frisky pretty girl?'
 
 - To pour half-glass you do a favour...
 
@@ -3182,11 +3182,11 @@ And thus... But what a fool I am I They call you: come next week to them.-
 
 XLIX
 
-‘Me?' - Yes, Tatyana's name-day happy Will be on Saturday...
+'Me?' - Yes, Tatyana's name-day happy Will be on Saturday...
 
 They call, And no reason, even gappy, You have for not to come at all.-
 
-‘But they will have a throng of people And all the other rabble feeble..?.
+'But they will have a throng of people And all the other rabble feeble..?.
 
 -But no one...
 
@@ -3196,7 +3196,7 @@ Let's go, do thorn such a favour!
 
 And what? -
 
-‘Agreed' - You... dear guy!
+'Agreed' - You... dear guy!
 
 And saying so, made he dry A glass to health of dear neighbour,
 
@@ -3400,7 +3400,7 @@ The snow's crackling... someone's near... On her tiptoe fast she flies
 
 And asks him stilly, sweetly sighs More tenderer than reed-pipe dear:
 
-What is your name? - He's looking on, At last he answers: - Aghaphon…
+What is your name? - He's looking on, At last he answers: - Aghaphon.
 
 X
 
@@ -3452,13 +3452,13 @@ The snow-drift at once is moving...
 
 And who, d'you think, from it is looking?
 
-Some big and shaggy bear comes .. Tatyana: ‘Ah!' But he becomes
+Some big and shaggy bear comes .. Tatyana: 'Ah!' But he becomes
 
 Polite; with sharp-clawed paw he's rapping Her hand to offer help; she bends
 
 And leans on him with trembling hands; All fearful she's shyly stepping
 
-But crosses bridge; her helping her: She runs… the bear's after her!
+But crosses bridge; her helping her: She runs. the bear's after her!
 
 XIII
 
@@ -3504,7 +3504,7 @@ It's in the backwoods and it all Is bound by the snow-fall,
 
 Its window is brightly shining, Inside much noise and fuss they've had;
 
-‘There is my crony, he said, To warm yourself you must be trying!'
+'There is my crony, he said, To warm yourself you must be trying!'
 
 To inner porch he goes fast, He's laying down her at last.
 
@@ -3548,7 +3548,7 @@ He laughs - they all are laughing further: He frowns - all are srient, wry.
 
 That he's the head - it all is clear And Tanya has much less of fear;
 
-Of interest she is now full And tries herself the door to pull…
+Of interest she is now full And tries herself the door to pull.
 
 But suddenly the wind has blown Away the lire of all lamps:
 
@@ -3570,11 +3570,11 @@ Then hoofs, wry trunks, it let alone The tufted tails, the fangs in mugs,
 
 The whiskers and the bloody tongues, The horns and fingers made of bone -
 
-All point at her, such young and fine, And all they cry: ‘It's mine! Its mine'
+All point at her, such young and fine, And all they cry: 'It's mine! Its mine'
 
 XX
 
-‘It's mine!' the voice of Eugene thunders! And all the gang has vanished fast.
+'It's mine!' the voice of Eugene thunders! And all the gang has vanished fast.
 
 She stayed in frosty tone darkness: Young maiden is with Him at last.
 
@@ -3604,7 +3604,7 @@ Of dawn the ray all crimson sparkles And Olga opens the door;
 
 Like North Aurora's face of her, And like a butterfly she flutters.
 
-‘But now tell;' she says, ‘to me: Whom did you see in dream with me?'
+'But now tell;' she says, 'to me: Whom did you see in dream with me?'
 
 XXII
 
@@ -3702,7 +3702,7 @@ The lilt, well known round me: Reveilles vous, belle endormie.
 
 Among the songs in books decrepit Somewhere issued was that lilt; Triquet with poet's keen wit For world from dust that rhyme extracted,
 
-Was brave instead of ‘elle Nina' To put the ‘belle Tatiana'
+Was brave instead of 'elle Nina' To put the 'belle Tatiana'
 
 XXVIII
 
@@ -3740,9 +3740,9 @@ They don't listen to, they cry, They argue, laugh and squeak in fright.
 
 And suddenly my Lensky enters, With hire Onegin.
 
-‘Ah, my Lord!',
+'Ah, my Lord!',
 
-The mistress cries, ‘At last you've got!'
+The mistress cries, 'At last you've got!'
 
 In crowd everybody renders:
 
@@ -4044,7 +4044,7 @@ She's troubled by the jealous trend: As if some cold foe's hand
 
 Can press her heart, or a misfortune, That waits for her, is black, makes noise.
 
-‘I'll perish, - says my Tanya's voice - From him to die is pleasant fortune.
+'I'll perish, - says my Tanya's voice - From him to die is pleasant fortune.
 
 I don't grudge: why should I grudge?
 
@@ -4106,7 +4106,7 @@ To have a breakfast three together Could make them quickly reconcile,
 
 And then in secret could defame them By merry jest or real he.
 
-‘Sed alia temporal' But rudeness (Like dream of love, the prank of goodness)
+'Sed alia temporal' But rudeness (Like dream of love, the prank of goodness)
 
 With youthful years gets away, And my Zaretsky, I would say,
 
@@ -4178,7 +4178,7 @@ It's late, the time has gone; his letter To rue was brought; the whole matter
 
 Is spoiled by old duels fan, He's evil, gossip, talking man...
 
-Of course, he thinks, ‘I could be scornful To alt his funny, lying word;
+Of course, he thinks, 'I could be scornful To alt his funny, lying word;
 
 But whisper, laugh of fools can hurt..'
 
@@ -4226,7 +4226,7 @@ She's playful, careless and gay, Well, just the same as every day.
 
 XIV
 
-‘What for you early disappeared?'
+'What for you early disappeared?'
 
 Was asking Olya him at once
 
@@ -4250,7 +4250,7 @@ It seems to him like something awful To her remind all evening gaps.
 
 He thinks of here:
 
-‘I'll be defender; I'll not endure when offender
+'I'll be defender; I'll not endure when offender
 
 By fire of the praise and sighs To tempt the heart of girl yet tries:
 
@@ -4284,7 +4284,7 @@ The man, by muses once affected, As usual frowns alt the day.
 
 At clavichords he had been sitting, But only for chords was fitting;
 
-At Olga then he fixed his gaze And whispered: ‘I've my happy days...'
+At Olga then he fixed his gaze And whispered: 'I've my happy days...'
 
 But it is late, it's time to go...
 
@@ -4294,7 +4294,7 @@ At time of parting furthermore It beats like ready just to blow.
 
 At him she stares all the way:
 
-‘What's happened?'- `Nothing'… - Gets away.
+'What's happened?'- `Nothing'. - Gets away.
 
 XX
 
@@ -4316,7 +4316,7 @@ XXI
 
 By chance his verse yet anyhow Is kept by me; you read this rhyme;
 
-‘Where are, where are withdrawn you now The golden days of life my prime?
+'Where are, where are withdrawn you now The golden days of life my prime?
 
 What does next day for me prepare?
 
@@ -4340,7 +4340,7 @@ The memory of bard, yet youthful, Will sink into oblivion truthful,
 
 The world will me forget, but you My charming girl, will ever you
 
-Some tears shed at urn my early: ‘He tell in love with me,' to thinks
+Some tears shed at urn my early: 'He tell in love with me,' to thinks
 
 To me alone could he bring His dawn of life, such sad and stormy!'
 
@@ -4360,7 +4360,7 @@ But as soon as in charms of dreaming He lost himself - his neighbour comes
 
 To silent room of bard, alarms And wakens Lensky by appealing:
 
-‘It's seven soon, it's time to wake, Onegin, may be, has to wait'.
+'It's seven soon, it's time to wake, Onegin, may be, has to wait'.
 
 He was mistaken: sleeping fair — Onegin then for world was dead,
 
@@ -4402,7 +4402,7 @@ With mill Zaretsky has been dealing: Mill-stones he investigates.
 
 Onegin's coining with excuses.
 
-Zaretsky to behave refuses: ‘But where is the second yours?'
+Zaretsky to behave refuses: 'But where is the second yours?'
 
 In duels classic, pedant cross
 
@@ -4422,7 +4422,7 @@ Its true, he is unknown version, But really he's honest person!'
 
 Zaretsky's bitten both lips; To Lensky Eugene then appeals:
 
-‘Shall we begin?' ‘Perhaps,' says Lensky.
+'Shall we begin?' 'Perhaps,' says Lensky.
 
 And quickly both they yet off
 
@@ -4476,7 +4476,7 @@ Then took the friends for last his track Arid each of them the pistol had.
 
 XXX
 
-‘You now meet...' - And both coolly, The enemies, not aiming yet,
+'You now meet...' - And both coolly, The enemies, not aiming yet,
 
 In slow gait, quite fast and smoothly Have come the fourth already step.
 
@@ -4510,7 +4510,7 @@ By instant cool is all filled up To him Onegin hurries up,
 
 He looks, he calls him - all's for nothing!
 
-He isn't more… The youngling bard
+He isn't more. The youngling bard
 
 Has found end untimely hard!
 
@@ -4574,7 +4574,7 @@ In languish of the heart remorses He pressed his pistol in his hand,
 
 At Lensky Eugene looks quite forceless.
 
-‘Well, he is killed',- the neighbour said.
+'Well, he is killed',- the neighbour said.
 
 He's killed!..
 
@@ -4684,7 +4684,7 @@ For long by fate of Lensky, striking, Unwittingly her soul's filled
 
 She thinks:
 
-‘Whith Olga what could happen?
+'Whith Olga what could happen?
 
 Or not for long her heart was shattered
 
@@ -4886,7 +4886,7 @@ You hear voice of little source, You see grave-stone small and coarce
 
 In shade of two pine-trees quite old; Inscription can to you explain:
 
-‘Vladimir Lensky here's lain, He met his death like man quite hold
+'Vladimir Lensky here's lain, He met his death like man quite hold
 
 At such a year, such an age.
 
@@ -4922,7 +4922,7 @@ Some other now drew attention, Some other managed with invention
 
 By love her grief to lull to sleep, Some uhlan could her flattered keep;
 
-That uhlan's loved by all her soul… At altar now does she stand
+That uhlan's loved by all her soul. At altar now does she stand
 
 With wreath, ashamed, his hand in hand, With drooping head, as if yet lone,
 
@@ -5022,7 +5022,7 @@ XVI
 
 The doubts all confused her soul:
 
-‘Shall go forth or should return?..
+'Shall go forth or should return?..
 
 He isn't here...
 
@@ -5066,7 +5066,7 @@ And with a bow
 
 The woman says:
 
-‘At fire-place Alone barin sat for days.
+'At fire-place Alone barin sat for days.
 
 XVIII
 
@@ -5206,21 +5206,21 @@ The time is fast, she must be out: For her are waiting so long
 
 Two neighbours, home have been walking And all about her are talking.
 
-‘You see, Tatyana's not a child,' The old woman's voice is mild,-
+'You see, Tatyana's not a child,' The old woman's voice is mild,-
 
-‘Of them my Olga is the younger.
+'Of them my Olga is the younger.
 
 To fix her fate it's time, I see;
 
 What shall I do, I can't foresee; The same she says to all but sharper:
 
-‘Do not.'
+'Do not.'
 
 Her grief she never hides And lone in the woods she hikes."
 
 XXVI
 
-'But may be she's in love?' ‘Who knows?
+'But may be she's in love?' 'Who knows?
 
 Buyánov courted: was refused.
 
@@ -5230,21 +5230,21 @@ Quite greatly, when he made a visit, On her was fawning, you should see it!
 
 I thought that time: will do, perhaps; But what d'you think? again collapse!'
 
-‘Well, dear me, what is the matter?
+'Well, dear me, what is the matter?
 
 For fair of the brides her bring,
 
 To Moscow, they need good things.'..,
 
-‘Ah, father my! the profit's worsened..'.
+'Ah, father my! the profit's worsened..'.
 
-‘For single winter it will do, At least I'll credit money you'…
+'For single winter it will do, At least I'll credit money you'.
 
 XXVII
 
 The old woman was admired By that advice, such simple, good;
 
-She courted… at once decided: To Moscow by winter route!
+She courted. at once decided: To Moscow by winter route!
 
 This news Tatyana quickly hears.
 
@@ -5264,7 +5264,7 @@ She's getting up with rays of morning, At once she hurries to the fields
 
 And with her eyes all them adoring She looks around and she speaks:
 
-‘Forgive me, ever peaceful valleys, Hill peaks well known under heavens,
+'Forgive me, ever peaceful valleys, Hill peaks well known under heavens,
 
 And you, well known dear wood, And charming skies of neighbourhood.
 
@@ -5346,7 +5346,7 @@ Boom could fade.
 
 They sat. The aging sleigh is sliding, Is stilly crawling through the gate.
 
-‘Forgive, my place, my peaceful mate!
+'Forgive, my place, my peaceful mate!
 
 Forgive, secluded my asylum!
 
@@ -5476,9 +5476,9 @@ XLI
 
 - Princess, mon ange! -
 
-‘Pachette!'- Alina!
+'Pachette!'- Alina!
 
-‘Who might be thinking... all the time!
+'Who might be thinking... all the time!
 
 For how long?
 
@@ -5488,9 +5488,9 @@ My God, a scene from novels dear...' -And that's my daughter...
 
 Tanya, near!
 
-‘Ah, Tanya!
+'Ah, Tanya!
 
-Dear! come to rue… As in a dream it seems to be...
+Dear! come to rue. As in a dream it seems to be...
 
 D'you, Grandison in mind yet keeping?'
 
@@ -5516,7 +5516,7 @@ But you are tortured by the road.
 
 Let's come together... take a rest...
 
-I haven't force... is tired breast…
+I haven't force... is tired breast.
 
 For me is now hard the gladness, Not only the grief... my heart...
 
@@ -5554,7 +5554,7 @@ The kin from distant places rare Have tender welcome everywhere,
 
 And exclamations at the board:
 
-‘What big is Tanya!
+'What big is Tanya!
 
 Is it not
 
@@ -5562,9 +5562,9 @@ That recently I was you christening?'
 
 I was taking you in hands!
 
-‘And I your ears pulled by hands!'
+'And I your ears pulled by hands!'
 
-‘And I was gingebread you giving!'
+'And I was gingebread you giving!'
 
 And all grandparents exclaim: 'But how years fly away!'
 
@@ -5730,15 +5730,15 @@ Meanwhile his eyes off her can't tear Some general important, grand.
 
 The aunts are winking one to other And pushed my Tanya quickly rather,
 
-And whispered her each one of them: ‘You look left side at those men…'
+And whispered her each one of them: 'You look left side at those men.'
 
-‘Left side?.. but where? what is there?' I ‘It doesn't matter, but you look,
+'Left side?.. but where? what is there?' I 'It doesn't matter, but you look,
 
 D'you see, in front of that small group The two, the uniforms they wear...
 
 He stepped away... he turned a bit..'-
 
-‘But who? plump general that big?'
+'But who? plump general that big?'
 
 LV
 
@@ -5904,7 +5904,7 @@ Or will he be a lad good natured Like you and I, like all the world?
 
 At least he'd my advice have held: Refuse the modes antiquated,
 
-Enough he fooled the whole world? At least he'd my advice have held: Refuse the modes antiquated. Enough he fooled the whole world…
+Enough he fooled the whole world? At least he'd my advice have held: Refuse the modes antiquated. Enough he fooled the whole world.
 
 D'you know?...
 
@@ -6000,11 +6000,11 @@ Her movements were unhurried, slow. Nor cool, nor talkative is, though
 
 She doesn't glare at the rest, And doesn't claim to have success;
 
-At people looks she, never smirking, Without imitating tricks…
+At people looks she, never smirking, Without imitating tricks.
 
 She's still and simple at a glimpse. She seemed to be a certain copy,
 
-Do comme il faut… (Shishkov, forgive; can't some good translation give).
+Do comme il faut. (Shishkov, forgive; can't some good translation give).
 
 XV
 
@@ -6040,7 +6040,7 @@ She-neighbour her to outshine, Herself is though dazzling, fine.
 
 XVII
 
-‘Indeed? - my Eugene's now thinking, - But is it true?..
+'Indeed? - my Eugene's now thinking, - But is it true?..
 
 Exactly...
 
@@ -6054,31 +6054,31 @@ Directs it constantly, each minute At her, who by her own image
 
 Forgotten features can remind.
 
-‘You tell me, prince, if don't mind,
+'You tell me, prince, if don't mind,
 
 Who's there, crimson beret wears, With Spanish diplomat she speaks?',
 
 The prince as if anew him sees:
 
-‘I see, in world you've been too rare...
+'I see, in world you've been too rare...
 
 Well, to present you I shall try'
 
-‘But who is she?' She is my wife,
+'But who is she?' She is my wife,
 
 XVIII
 
-‘What, you are married! didn't know!
+'What, you are married! didn't know!
 
-And how long?' ‘Two will he fast...'
+And how long?' 'Two will he fast...'
 
-‘And whom?' - She's Larin's. -
+'And whom?' - She's Larin's. -
 
-‘Tanya though!' ‘D'you know her?-
+'Tanya though!' 'D'you know her?-
 
-‘I'm neighbour just'.
+'I'm neighbour just'.
 
-‘Well, let us go…' Prince then nears His own wife (and she them hears),
+'Well, let us go.' Prince then nears His own wife (and she them hears),
 
 Presents his friend and distant kin.
 
@@ -6102,7 +6102,7 @@ Could my Onegin now find.
 
 To have a talk with her he tried
 
-And… he could not.
+And. he could not.
 
 She was him asking: For long he's here? Where from?
 
@@ -6140,7 +6140,7 @@ Aid he awoke; they are bringing A letter: him prince N. is bidding
 
 For evening party...
 
-‘Lord! to her!..
+'Lord! to her!..
 
 Yes, I shall come, I'll come!' - before
 
@@ -6428,7 +6428,7 @@ And took him by the scruff of neck And in a gloomy corner kept.
 
 XXXV
 
-Again promiscuosly he's reading… Has read all Gibbon and Rousseau,
+Again promiscuosly he's reading. Has read all Gibbon and Rousseau,
 
 Manzony, Herder; was re-reading Madame de Stael, Bichat, Tissot,
 
@@ -6470,7 +6470,7 @@ In front of him gay fancy's giving His Pharaoh, and tries to fit;
 
 He sees some smelted snow; now, As if he sleeps in some doss-house,
 
-A youth unmoving lies on it; He hears voices: ‘Well, he's killed...'
+A youth unmoving lies on it; He hears voices: 'Well, he's killed...'
 
 Or can he see forgotten foes, Some cravens, slanderers, a swarm
 
@@ -6570,7 +6570,7 @@ Too long the silence's now seeming...
 
 And stilly does she say at last:
 
-‘Enough, get up, I now must
+'Enough, get up, I now must
 
 Explain to you, do it frankly.
 
@@ -6582,7 +6582,7 @@ To lesson yours attended I, To-day, you see, the turn is mine.
 
 XLIII
 
-‘Onegin, then I was much younger And, seems to me, much more was fine,
+'Onegin, then I was much younger And, seems to me, much more was fine,
 
 I loved you, I for love had hunger, But what in all your heart could find?
 
@@ -6602,7 +6602,7 @@ To me that time you were quite right,' To you is grateful soul mine...
 
 XLIV
 
-‘But then... or it not true?.. in desert, From fussy rumours being far,
+'But then... or it not true?.. in desert, From fussy rumours being far,
 
 You didn't like me; What has happened, That after me you now are?
 
@@ -6622,7 +6622,7 @@ And in the world could help to back Seductive though small respect?
 
 XLV
 
-‘I weep... If that your Tanya old Till now you could not forget,
+'I weep... If that your Tanya old Till now you could not forget,
 
 Your pricks of swear, you must know, Your strict and cool severe chat
 
@@ -6640,7 +6640,7 @@ And how, with your heart and mind, To he the slave of sense, not kind?
 
 XLVI
 
-‘To me, Onegin, all this splendour, This tinsel of repelling life,
+'To me, Onegin, all this splendour, This tinsel of repelling life,
 
 And my in life success at random, My stylish place, the guests till night,
 
@@ -6658,7 +6658,7 @@ In shade of branch some simple cross On grave of dear, poor nurse.
 
 XLVII
 
-‘And happiness was not unlikely, And so near!
+'And happiness was not unlikely, And so near!
 
 But my fate
 
