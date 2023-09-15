@@ -1,5 +1,7 @@
 #include "sorts.h"
 
+// bubble sort function
+
 void SortBubbleArray(char** string_array, const size_t string_number,
                      int (*comp)(const char*, const char*))
 {
@@ -23,10 +25,7 @@ void SortBubbleArray(char** string_array, const size_t string_number,
     }
 }
 
-void SortingByQsort(char **line_array, int line_num)
-{
-    qsort((void *)line_array, line_num, sizeof(char*), Compare);
-}
+// compare functions
 
 int Compare(const void * str1, const void * str2)
 {
@@ -127,3 +126,44 @@ int StrcmpLeftRight(const char* str1, const char* str2)
     }
 }
 
+// qsort functions
+
+void SortingByQsort(char **line_array, int line_num)
+{
+    qsort((void *)line_array, line_num, sizeof(char*), Compare);
+}
+
+
+void QuickSortStringArray(char** string_array, const size_t string_number,
+                          size_t left, size_t right,
+                          int (*comp)(const char*, const char*))
+{
+    if (left == right) {
+        return;
+    } else if (right - left == 1) {
+        int is_str1_smaller_str2 = (*comp)(*(string_array + left), *(string_array + right));
+
+        if (is_str1_smaller_str2) {
+            char* temp_pt = *(string_array + left);
+            *(string_array + left) = *(string_array + right);
+            *(string_array + right) = temp_pt;
+        }
+        return;
+    }
+
+    size_t mid = Partition(string_array, string_number, left, right, int (*comp)(const char*, const char*));
+
+    if (left <= mid) {
+        QuickSortArray(string_array, string_number, left, mid, int (*comp)(const char*, const char*));
+    }
+    if (mid+1 <= right) {
+        QuickSortArray(string_array, string_number, mid+1, right, int (*comp)(const char*, const char*));
+    }
+}
+
+size_t Partition(char** string_array, const size_t string_number,
+                 size_t left, size_t right,
+                 int (*comp)(const char*, const char*))
+{
+
+}
